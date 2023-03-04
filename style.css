@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 14px;
+}
+
+section {
+    display: flex;
+}
+
+.contacts {
+    padding-left: 30px;
+    background-color:rgb(220, 230, 230);
+    width:430px;
+    height: 20%;
+}
+
+p {
+    margin-bottom: 40px;
+}
+
+#map {
+    width: 430px;
+    height: 80%; 
+}
